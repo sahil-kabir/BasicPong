@@ -1,0 +1,2 @@
+C:\Users\cyank\source\repos\Hazel\Debug\Hazel.exe
+C:\Users\cyank\source\repos\Hazel\Debug\Hazel.pdb

@@ -1,0 +1,21 @@
+﻿  Main.cpp
+C:\Users\cyank\source\repos\Hazel\Main.cpp(13,26): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\cyank\source\repos\Hazel\Main.cpp(15,45): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\cyank\source\repos\Hazel\Main.cpp(16,46): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\cyank\source\repos\Hazel\Main.cpp(43,43): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\cyank\source\repos\Hazel\Main.cpp(43,35): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\cyank\source\repos\Hazel\Main.cpp(56,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\cyank\source\repos\Hazel\Main.cpp(57,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Hazel.vcxproj -> C:\Users\cyank\source\repos\Hazel\Debug\Hazel.exe
