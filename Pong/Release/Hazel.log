@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\Users\cyank\source\repos\Pong\Main.cpp(9,43): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\cyank\source\repos\Pong\Main.cpp(9,35): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\cyank\source\repos\Pong\Main.cpp(22,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\cyank\source\repos\Pong\Main.cpp(23,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 81 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Hazel.vcxproj -> C:\Users\cyank\source\repos\Pong\Release\BasicPong.exe
